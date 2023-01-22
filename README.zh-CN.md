@@ -1,8 +1,10 @@
 # p5.js 学习
 
-这个资源库致力于分享我的 p5.js 作品和任何关于 p5.js 的知识。
+[查看英文](./README.md)
 
-这个资源库包含很多例子，比如以下几个大类。
+这个仓库专门于分享我的 p5.js 作品和任何关于 p5.js 的知识。
+
+这个仓库包含很多例子，比如以下几个大类。
 
 - 植物、风景编码的思路
 - 文本效果
@@ -19,23 +21,22 @@
 
 ## 目录
 
-### [P5 绘画类](./README.md)
+### [艺术类](./P5_Art/README.md)
 
 像风景画、植物画、抽象画和其他用 p5.js 创作的艺术作品都会放在这个目录里。
 
 #### 陈列
 
-- 001_MountainAtNight
-  ![p1](./P5_Art/001_MountainAtNight/preview.png)
+| 001_MountainAtNight                           | 002_Lotus                           | 005_ColorTree                           |
+| --------------------------------------------- | ----------------------------------- | --------------------------------------- |
+| ![](./P5_Art/001_MountainAtNight/preview.png) | ![](./P5_Art/002_Lotus/preview.png) | ![](./P5_Art/005_ColorTree/preview.png) |
 
-- 002_Lotus
-  ![p2](./P5_Art/002_Lotus/preview.png)
+### [文本类](./P5_Font/README.md)
 
-- 003_Seaweed
-  ![p3](./P5_Art/003_Seaweed/preview.png)
+与文本相关的 p5.js 作品将放在这个文件夹中。
 
-- 004_ColorTree
-  ![p4](./P5_Art/004_ColorTree/preview.png)
+#### 陈列
 
-- 005_ColorTree
-  ![p4](./P5_Art/005_ColorTree/preview.png)
+| 002_NeonFont                            | 003_TextLoopAnimationPoster                            | 004_TextParticleLoopAnimation                            |
+| --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
+| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextLoopAnimationPoster/preview.png) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.png) |

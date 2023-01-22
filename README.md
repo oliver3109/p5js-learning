@@ -1,5 +1,7 @@
 # p5js-learning
 
+[查看中文](./README.zh-CN.md)
+
 This repository is dedicated to sharing my p5.js work and any knowledge about p5.js.
 
 This repository contains many examples, such as the following broad categories:
@@ -19,23 +21,22 @@ A very wide range of topics are covered for your reference. If you are planning 
 
 ## Catalogue
 
-### [P5 Art](./README.md)
+### [P5 Art](./P5_Art/README.md)
 
 Things like landscapes, botanicals, abstracts and other artwork created with p5.js will go in this catalogue.
 
 #### Exhibition
 
-- 001_MountainAtNight
-  ![p1](./P5_Art/001_MountainAtNight/preview.png)
+| 001_MountainAtNight                           | 002_Lotus                           | 005_ColorTree                           |
+| --------------------------------------------- | ----------------------------------- | --------------------------------------- |
+| ![](./P5_Art/001_MountainAtNight/preview.png) | ![](./P5_Art/002_Lotus/preview.png) | ![](./P5_Art/005_ColorTree/preview.png) |
 
-- 002_Lotus
-  ![p2](./P5_Art/002_Lotus/preview.png)
+### [P5 Font](./P5_Font/README.md)
 
-- 003_Seaweed
-  ![p3](./P5_Art/003_Seaweed/preview.png)
+The text, text-related p5.js works will be placed in this catalogue.
 
-- 004_ColorTree
-  ![p4](./P5_Art/004_ColorTree/preview.png)
+#### Exhibition
 
-- 005_ColorTree
-  ![p4](./P5_Art/005_ColorTree/preview.png)
+| 002_NeonFont                            | 003_TextLoopAnimationPoster                            | 004_TextParticleLoopAnimation                            |
+| --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
+| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextLoopAnimationPoster/preview.png) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.png) |
