@@ -31,8 +31,16 @@
 
 ### [文本类](./P5_Font/README.md)
 
-与文本相关的 p5.js 作品将放在这个文件夹中。
+与文本相关的 p5.js 作品将放在这个目录中。
 
 | 002_NeonFont                            | 003_TextPosterLoopAnimation                            | 004_TextParticleLoopAnimation                            |
 | --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
 | ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.png) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.png) |
+
+### [几何图案](./P5_Geometric_Pattern/README.md)
+
+在 p5.js 中通过使用算法重新排列或重新组合一些几何图形，让它们具有视觉美感。
+
+| 001_TriangleNestedPattern                                         | 002_RectangleComposition                                         |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![](./P5_Geometric_Pattern/001_TriangleNestedPattern/preview.png) | ![](./P5_Geometric_Pattern/002_RectangleComposition/preview.png) |

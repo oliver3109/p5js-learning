@@ -37,4 +37,10 @@ The text, text-related p5.js works will be placed in this catalogue.
 | --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
 | ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.png) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.png) |
 
-·
+### [P5 Geometric Pattern](./P5_Geometric_Pattern/README.md)
+
+Make some geometric shapes visually aesthetically pleasing by rearranging or recombining them using algorithms in p5.js.
+
+| 001_TriangleNestedPattern                                         | 002_RectangleComposition                                         |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![](./P5_Geometric_Pattern/001_TriangleNestedPattern/preview.png) | ![](./P5_Geometric_Pattern/002_RectangleComposition/preview.png) |
