@@ -25,8 +25,6 @@ A very wide range of topics are covered for your reference. If you are planning 
 
 Things like landscapes, botanicals, abstracts and other artwork created with p5.js will go in this catalogue.
 
-#### Exhibition
-
 | 001_MountainAtNight                           | 002_Lotus                           | 005_ColorTree                           |
 | --------------------------------------------- | ----------------------------------- | --------------------------------------- |
 | ![](./P5_Art/001_MountainAtNight/preview.png) | ![](./P5_Art/002_Lotus/preview.png) | ![](./P5_Art/005_ColorTree/preview.png) |
@@ -35,8 +33,8 @@ Things like landscapes, botanicals, abstracts and other artwork created with p5.
 
 The text, text-related p5.js works will be placed in this catalogue.
 
-#### Exhibition
-
 | 002_NeonFont                            | 003_TextLoopAnimationPoster                            | 004_TextParticleLoopAnimation                            |
 | --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
 | ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextLoopAnimationPoster/preview.png) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.png) |
+
+·
