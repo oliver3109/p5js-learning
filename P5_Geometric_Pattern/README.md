@@ -5,7 +5,9 @@ Make some geometric shapes visually aesthetically pleasing by rearranging or rec
 ## Exhibition
 
 - 001_TriangleNestedPattern
+
   ![](./001_TriangleNestedPattern/preview.png)
 
 - 002_RectangleComposition
+
   ![](./002_RectangleComposition/preview.png)
