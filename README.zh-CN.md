@@ -33,6 +33,6 @@
 
 与文本相关的 p5.js 作品将放在这个文件夹中。
 
-| 002_NeonFont                            | 003_TextLoopAnimationPoster                            | 004_TextParticleLoopAnimation                            |
+| 002_NeonFont                            | 003_TextPosterLoopAnimation                            | 004_TextParticleLoopAnimation                            |
 | --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
-| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextLoopAnimationPoster/preview.png) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.png) |
+| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.png) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.png) |
