@@ -35,7 +35,7 @@
 
 | 002_NeonFont                            | 003_TextPosterLoopAnimation                            | 004_TextParticleLoopAnimation                            |
 | --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
-| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.png) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.png) |
+| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.gif) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.gif) |
 
 ### [几何图案](./P5_Geometric_Pattern/README.md)
 

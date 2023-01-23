@@ -78,3 +78,9 @@ class Particle {
     ellipse(this.pos.x, this.pos.y, random(1, 10));
   }
 }
+
+function keyPressed() {
+  if (key === "s") {
+    saveGif("mySketch", 5);
+  }
+}

@@ -214,3 +214,9 @@ class Roll {
     image(right.graphics, width - leftOffset, this.y, width, right.h);
   }
 }
+
+function keyPressed() {
+  if (key === "s") {
+    saveGif("mySketch", 5);
+  }
+}

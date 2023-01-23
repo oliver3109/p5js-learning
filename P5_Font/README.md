@@ -14,8 +14,8 @@ The text, text-related p5.js works will be placed in this folder.
 
 - 003_TextPosterLoopAnimation
 
-  ![](./003_TextPosterLoopAnimation/preview.png)
+  ![](./003_TextPosterLoopAnimation/preview.gif)
 
 - 004_TextParticleLoopAnimation
 
-  ![](./004_TextParticleLoopAnimation/preview.png)
+  ![](./004_TextParticleLoopAnimation/preview.gif)
