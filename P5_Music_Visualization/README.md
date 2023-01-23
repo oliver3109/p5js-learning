@@ -6,8 +6,8 @@ All p5.js music compositions will be placed in this folder.
 
 - 001_RandomCurve
 
-  ![](./001_RandomCurve/preview.gif)
+  ![](https://cdn.jsdelivr.net/gh/chihyungchang/p5js-learning/P5_Music_Visualization/001_RandomCurve/preview.gif)
 
 - 002_SoundWaves
 
-  ![](./002_SoundWaves/preview.gif)
+  ![](https://cdn.jsdelivr.net/gh/chihyungchang/p5js-learning/P5_Music_Visualization/002_SoundWaves/preview.gif)

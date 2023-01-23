@@ -33,9 +33,9 @@ Things like landscapes, botanicals, abstracts and other artwork created with p5.
 
 The text, text-related p5.js works will be placed in this catalogue.
 
-| 002_NeonFont                            | 003_TextPosterLoopAnimation                            | 004_TextParticleLoopAnimation                            |
-| --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
-| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.gif) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.gif) |
+| 002_NeonFont                            | 003_TextPosterLoopAnimation                            | 004_TextParticleLoopAnimation                                                                                  |
+| --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.gif) | ![](https://cdn.jsdelivr.net/gh/chihyungchang/p5js-learning/P5_Font/004_TextParticleLoopAnimation/preview.gif) |
 
 ### [P5 Geometric Pattern](./P5_Geometric_Pattern/README.md)
 
@@ -49,6 +49,6 @@ Make some geometric shapes visually aesthetically pleasing by rearranging or rec
 
 All p5.js music compositions will be placed in this catalogue.
 
-| 001_RandomCurve                                           | 002_SoundWaves                                           |
-| --------------------------------------------------------- | -------------------------------------------------------- |
-| ![](./P5_Music_Visualization/001_RandomCurve/preview.gif) | ![](./P5_Music_Visualization/002_SoundWaves/preview.gif) |
+| 001_RandomCurve                                                                                                 | 002_SoundWaves                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| ![](https://cdn.jsdelivr.net/gh/chihyungchang/p5js-learning/P5_Music_Visualization/001_RandomCurve/preview.gif) | ![](https://cdn.jsdelivr.net/gh/chihyungchang/p5js-learning/P5_Music_Visualization/002_SoundWaves/preview.gif) |

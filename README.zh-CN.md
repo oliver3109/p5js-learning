@@ -33,9 +33,9 @@
 
 与文本相关的 p5.js 作品将放在这个目录中。
 
-| 002_NeonFont                            | 003_TextPosterLoopAnimation                            | 004_TextParticleLoopAnimation                            |
-| --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
-| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.gif) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.gif) |
+| 002_NeonFont                            | 003_TextPosterLoopAnimation                            | 004_TextParticleLoopAnimation                                                                                  |
+| --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.gif) | ![](https://cdn.jsdelivr.net/gh/chihyungchang/p5js-learning/P5_Font/004_TextParticleLoopAnimation/preview.gif) |
 
 ### [几何图案](./P5_Geometric_Pattern/README.md)
 
@@ -49,6 +49,6 @@
 
 所有 p5.js 音乐作品都将放在这个目录中。
 
-| 001_RandomCurve                                           | 002_SoundWaves                                           |
-| --------------------------------------------------------- | -------------------------------------------------------- |
-| ![](./P5_Music_Visualization/001_RandomCurve/preview.gif) | ![](./P5_Music_Visualization/002_SoundWaves/preview.gif) |
+| 001_RandomCurve                                                                                                 | 002_SoundWaves                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| ![](https://cdn.jsdelivr.net/gh/chihyungchang/p5js-learning/P5_Music_Visualization/001_RandomCurve/preview.gif) | ![](https://cdn.jsdelivr.net/gh/chihyungchang/p5js-learning/P5_Music_Visualization/002_SoundWaves/preview.gif) |
