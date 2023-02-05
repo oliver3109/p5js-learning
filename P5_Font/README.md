@@ -23,3 +23,7 @@ The text, text-related p5.js works will be placed in this folder.
 - 005_TextFlowAnimation
 
   ![](./005_TextFlowAnimation/preview.gif)
+
+- 006_TextMatrixAnimation
+
+  ![](./006_TextMatrixAnimation/preview.gif)
