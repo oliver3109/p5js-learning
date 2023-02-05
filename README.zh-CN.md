@@ -11,9 +11,11 @@
 - 几何图案
 - 循环动画
 - 音乐可视化
-- 噪声
+- 生成艺术
 - 自然系统的模拟
 - 机器学习 API
+- 数学
+- 其他
 
 本仓库涵盖了非常广泛的话题供您参考。如果你打算开始学习 p5.js，你就来对地方了。
 
@@ -33,9 +35,13 @@
 
 与文本相关的 p5.js 作品将放在这个目录中。
 
-| 002_NeonFont                            | 003_TextPosterLoopAnimation                            | 004_TextParticleLoopAnimation                            |
-| --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
-| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.gif) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.gif) |
+| 001_WoolFont                            | 002_NeonFont                            | 003_TextPosterLoopAnimation                            |
+| --------------------------------------- | --------------------------------------- | ------------------------------------------------------ |
+| ![](./P5_Font/001_WoolFont/preview.png) | ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.gif) |
+
+| 004_TextParticleLoopAnimation                            | 005_TextFlowAnimation                            | 006_TextMatrixAnimation                            |
+| -------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
+| ![](./P5_Font/004_TextParticleLoopAnimation/preview.gif) | ![](./P5_Font/005_TextFlowAnimation/preview.gif) | ![](./P5_Font/006_TextMatrixAnimation/preview.gif) |
 
 ### [几何图案](./P5_Geometric_Pattern/README.md)
 

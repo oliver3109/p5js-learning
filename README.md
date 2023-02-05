@@ -11,9 +11,11 @@ This repository contains many examples, such as the following broad categories:
 - Geometric patterns
 - Looping animations
 - Music visualization
-- Noise
+- Generative Art
 - Simulation of natural systems
 - Machine learning API
+- Math
+- Other
 
 A very wide range of topics are covered for your reference. If you are planning to get started with p5.js real you have come to the right place.
 
@@ -33,9 +35,13 @@ Things like landscapes, botanicals, abstracts and other artwork created with p5.
 
 The text, text-related p5.js works will be placed in this catalogue.
 
-| 002_NeonFont                            | 003_TextPosterLoopAnimation                            | 004_TextParticleLoopAnimation                            |
-| --------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
-| ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.gif) | ![](./P5_Font/004_TextParticleLoopAnimation/preview.gif) |
+| 001_WoolFont                            | 002_NeonFont                            | 003_TextPosterLoopAnimation                            |
+| --------------------------------------- | --------------------------------------- | ------------------------------------------------------ |
+| ![](./P5_Font/001_WoolFont/preview.png) | ![](./P5_Font/002_NeonFont/preview.png) | ![](./P5_Font/003_TextPosterLoopAnimation/preview.gif) |
+
+| 004_TextParticleLoopAnimation                            | 005_TextFlowAnimation                            | 006_TextMatrixAnimation                            |
+| -------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
+| ![](./P5_Font/004_TextParticleLoopAnimation/preview.gif) | ![](./P5_Font/005_TextFlowAnimation/preview.gif) | ![](./P5_Font/006_TextMatrixAnimation/preview.gif) |
 
 ### [P5 Geometric Pattern](./P5_Geometric_Pattern/README.md)
 
