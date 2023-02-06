@@ -51,6 +51,14 @@
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
 | ![](./P5_Geometric_Pattern/001_TriangleNestedPattern/preview.png) | ![](./P5_Geometric_Pattern/002_RectangleComposition/preview.png) |
 
+### [数学](./P5_Math/README.md)
+
+用 p5.js 完成的一些数学实验将放在这个目录中。
+
+| 001_Lissajous                            |     |
+| ---------------------------------------- | --- |
+| ![](./P5_Math/001_Lissajous/preview.png) |     |
+
 ### [音乐可视化](./P5_Music_Visualization/README.md)
 
 所有 p5.js 音乐作品都将放在这个目录中。

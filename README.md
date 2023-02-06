@@ -51,6 +51,14 @@ Make some geometric shapes visually aesthetically pleasing by rearranging or rec
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
 | ![](./P5_Geometric_Pattern/001_TriangleNestedPattern/preview.png) | ![](./P5_Geometric_Pattern/002_RectangleComposition/preview.png) |
 
+### [P5 Math](./P5_Math/README.md)
+
+Some of the mathematical experiments done with p5.js will be placed in this catalogue.
+
+| 001_Lissajous                            |     |
+| ---------------------------------------- | --- |
+| ![](./P5_Math/001_Lissajous/preview.png) |     |
+
 ### [P5 Music Visualization](./P5_Music_Visualization/README.md)
 
 All p5.js music compositions will be placed in this catalogue.
