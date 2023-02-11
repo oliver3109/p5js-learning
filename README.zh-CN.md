@@ -27,9 +27,9 @@
 
 像风景画、植物画、抽象画和其他用 p5.js 创作的艺术作品都会放在这个目录里。
 
-| 001_MountainAtNight                           | 002_Lotus                           | 005_ColorTree                           |
-| --------------------------------------------- | ----------------------------------- | --------------------------------------- |
-| ![](./P5_Art/001_MountainAtNight/preview.png) | ![](./P5_Art/002_Lotus/preview.png) | ![](./P5_Art/005_ColorTree/preview.png) |
+| 001_MountainAtNight                           | 002_Lotus                           | 006_BloodForestUnderTheMoon                           |
+| --------------------------------------------- | ----------------------------------- | ----------------------------------------------------- |
+| ![](./P5_Art/001_MountainAtNight/preview.png) | ![](./P5_Art/002_Lotus/preview.png) | ![](./P5_Art/006_BloodForestUnderTheMoon/preview.png) |
 
 ### [文本类](./P5_Font/README.md)
 

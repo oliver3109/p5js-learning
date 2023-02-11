@@ -27,9 +27,9 @@ A very wide range of topics are covered for your reference. If you are planning 
 
 Things like landscapes, botanicals, abstracts and other artwork created with p5.js will go in this catalogue.
 
-| 001_MountainAtNight                           | 002_Lotus                           | 005_ColorTree                           |
-| --------------------------------------------- | ----------------------------------- | --------------------------------------- |
-| ![](./P5_Art/001_MountainAtNight/preview.png) | ![](./P5_Art/002_Lotus/preview.png) | ![](./P5_Art/005_ColorTree/preview.png) |
+| 001_MountainAtNight                           | 002_Lotus                           | 006_BloodForestUnderTheMoon                           |
+| --------------------------------------------- | ----------------------------------- | ----------------------------------------------------- |
+| ![](./P5_Art/001_MountainAtNight/preview.png) | ![](./P5_Art/002_Lotus/preview.png) | ![](./P5_Art/006_BloodForestUnderTheMoon/preview.png) |
 
 ### [P5 Font](./P5_Font/README.md)
 

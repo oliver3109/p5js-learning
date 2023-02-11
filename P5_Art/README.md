@@ -23,3 +23,7 @@ Things like landscapes, botanicals, abstracts and other artwork created with p5.
 - 005_ColorTree
 
   ![](./005_ColorTree/preview.png)
+
+- 006_BloodForestUnderTheMoon
+
+  ![](./006_BloodForestUnderTheMoon/preview.png)
