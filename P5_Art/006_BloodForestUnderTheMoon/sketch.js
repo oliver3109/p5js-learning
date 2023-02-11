@@ -30,7 +30,7 @@ function setup() {
   }
 
   for (let i = 0; i < 10; i++) {
-    let fillColor = [0, random(70, 100), random(90, 100), 88];
+    let fillColor = [random(0, 10), random(60, 90), 100, 90];
     branchList2.push(
       new Branch({
         pos: createVector((width / 10) * i, height + random(100, 300)),
@@ -57,7 +57,7 @@ function draw() {
 
   noStroke();
   fill(59, 20, 100, 80);
-  ellipse(width / 2 + random(-300, 200), random(200, 700), 900, 900);
+  ellipse(width / 2 + random(-300, 200), random(200, 650), 900, 900);
 
   for (const branch of branchList2) {
     branch.draw();
