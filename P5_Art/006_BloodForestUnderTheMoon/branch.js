@@ -94,7 +94,7 @@ class Branch {
               y: node.y,
               angle: random(360),
               fillColor: this.leafColor,
-              strokeColor: this.leafColor,
+              strokeColor: this.leafStrokeColor,
               debugMode: false,
               textureMode: false,
               sWeight: 1,

@@ -4,7 +4,6 @@
 // More Works https://openprocessing.org/user/324595?o=2&view=sketches
 
 function makeFilter(ver) {
-  push();
   colorMode(HSB, 360, 100, 100, 100);
   drawingContext.shadowColor = color(0, 0, 5, 95);
   overAllTexture = createGraphics(width, height);
@@ -38,5 +37,4 @@ function makeFilter(ver) {
     }
   }
   overAllTexture.updatePixels();
-  pop();
 }
