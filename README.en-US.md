@@ -1,39 +1,37 @@
-# p5.js 学习
+# p5js-learning
 
-[查看英文](./README.md)
+This repository is dedicated to sharing my p5.js work and any knowledge about p5.js.
 
-这个仓库专门于分享我的 p5.js 作品和任何关于 p5.js 的知识。
+This repository contains many examples, such as the following broad categories:
 
-这个仓库包含很多例子，比如以下几个大类。
+- Plants, landscape coding ideas
+- Text effects
+- Geometric patterns
+- Looping animations
+- Music visualization
+- Generative Art
+- Simulation of natural systems
+- Machine learning API
+- Math
+- Other
 
-- 植物、风景编码的思路
-- 文本效果
-- 几何图案
-- 循环动画
-- 音乐可视化
-- 生成艺术
-- 自然系统的模拟
-- 机器学习 API
-- 数学
-- 其他
-
-本仓库涵盖了非常广泛的话题供您参考。如果你打算开始学习 p5.js，你就来对地方了。
+A very wide range of topics are covered for your reference. If you are planning to get started with p5.js real you have come to the right place.
 
 ---
 
-## 目录
+## Catalogue
 
-### [艺术类](./P5_Art/README.md)
+### [P5 Art](./P5_Art/README.md)
 
-像风景画、植物画、抽象画和其他用 p5.js 创作的艺术作品都会放在这个目录里。
+Things like landscapes, botanicals, abstracts and other artwork created with p5.js will go in this catalogue.
 
 | 001_MountainAtNight                           | 002_Lotus                           | 006_BloodForestUnderTheMoon                           |
 | --------------------------------------------- | ----------------------------------- | ----------------------------------------------------- |
 | ![](./P5_Art/001_MountainAtNight/preview.png) | ![](./P5_Art/002_Lotus/preview.png) | ![](./P5_Art/006_BloodForestUnderTheMoon/preview.png) |
 
-### [文本类](./P5_Font/README.md)
+### [P5 Font](./P5_Font/README.md)
 
-与文本相关的 p5.js 作品将放在这个目录中。
+The text, text-related p5.js works will be placed in this catalogue.
 
 | 001_WoolFont                            | 002_NeonFont                            | 003_TextPosterLoopAnimation                            |
 | --------------------------------------- | --------------------------------------- | ------------------------------------------------------ |
@@ -43,25 +41,25 @@
 | -------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
 | ![](./P5_Font/004_TextParticleLoopAnimation/preview.gif) | ![](./P5_Font/005_TextFlowAnimation/preview.gif) | ![](./P5_Font/006_TextMatrixAnimation/preview.gif) |
 
-### [几何图案](./P5_Geometric_Pattern/README.md)
+### [P5 Geometric Pattern](./P5_Geometric_Pattern/README.md)
 
-在 p5.js 中通过使用算法重新排列或重新组合一些几何图形，让它们具有视觉美感。
+Make some geometric shapes visually aesthetically pleasing by rearranging or recombining them using algorithms in p5.js.
 
 | 001_TriangleNestedPattern                                         | 002_RectangleComposition                                         |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
 | ![](./P5_Geometric_Pattern/001_TriangleNestedPattern/preview.png) | ![](./P5_Geometric_Pattern/002_RectangleComposition/preview.png) |
 
-### [数学](./P5_Math/README.md)
+### [P5 Math](./P5_Math/README.md)
 
-用 p5.js 完成的一些数学实验将放在这个目录中。
+Some of the mathematical experiments done with p5.js will be placed in this catalogue.
 
 | 001_Lissajous                            |     |
 | ---------------------------------------- | --- |
 | ![](./P5_Math/001_Lissajous/preview.png) |     |
 
-### [音乐可视化](./P5_Music_Visualization/README.md)
+### [P5 Music Visualization](./P5_Music_Visualization/README.md)
 
-所有 p5.js 音乐作品都将放在这个目录中。
+All p5.js music compositions will be placed in this catalogue.
 
 | 001_RandomCurve                                           | 002_SoundWaves                                           |
 | --------------------------------------------------------- | -------------------------------------------------------- |
