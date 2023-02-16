@@ -21,12 +21,6 @@
 
 ---
 
-## 群聊
-
-微信搜索 ChihYungChang 拉你入群
-
-![](./wechat-group.jpg)
-
 ## 目录
 
 ### [艺术类](./P5_Art/README.md)
@@ -72,3 +66,9 @@
 | 001_RandomCurve                                           | 002_SoundWaves                                           |
 | --------------------------------------------------------- | -------------------------------------------------------- |
 | ![](./P5_Music_Visualization/001_RandomCurve/preview.gif) | ![](./P5_Music_Visualization/002_SoundWaves/preview.gif) |
+
+## 群聊
+
+**微信搜索 ChihYungChang 拉你入群**
+
+<img src="https://s2.loli.net/2023/02/16/RqosQTuiBFXCLHj.jpg" width="300">
