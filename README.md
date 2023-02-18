@@ -46,9 +46,9 @@
 
 生成艺术是使用计算机编程的艺术，它有意义引入随机性作为其创作过程的一部分。
 
-| 001_TriangleNestedPattern                                      | 002_RectangleComposition                               |
-| -------------------------------------------------------------- | ------------------------------------------------------ |
-| ![](./P5_Generative_Art/001_TriangleNestedPattern/preview.png) | ![](./P5_Generative_Art/P5_Generative_Art/preview.png) |
+| 001_TriangleNestedPattern                                      | 002_RectangleComposition                                      |
+| -------------------------------------------------------------- | ------------------------------------------------------------- |
+| ![](./P5_Generative_Art/001_TriangleNestedPattern/preview.png) | ![](./P5_Generative_Art/002_RectangleComposition/preview.png) |
 
 ### [数学](./P5_Math/README.md)
 
