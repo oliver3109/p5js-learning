@@ -54,9 +54,9 @@
 
 用 p5.js 完成的一些数学实验将放在这个目录中。
 
-| 001_Lissajous                            |     |
-| ---------------------------------------- | --- |
-| ![](./P5_Math/001_Lissajous/preview.png) |     |
+| 001_Lissajous                            | 002_Rose_Curve                            |
+| ---------------------------------------- | ----------------------------------------- |
+| ![](./P5_Math/001_Lissajous/preview.png) | ![](./P5_Math/002_Rose_Curve/preview.png) |
 
 ### [音乐可视化](./P5_Music_Visualization/README.md)
 

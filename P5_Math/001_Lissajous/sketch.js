@@ -3,11 +3,6 @@
 // My Github https://github.com/ChihYungChang
 // More Works https://openprocessing.org/user/324595?o=2&view=sketches
 
-let span = 10;
-let len = 50;
-let stepY = (len + span) * 2;
-let stepX = (len + span) * 2;
-
 let p = 1;
 let q = 1;
 

@@ -52,9 +52,9 @@ The generative art is the art of using computer programming, which meaningfully 
 
 Some of the mathematical experiments done with p5.js will be placed in this catalogue.
 
-| 001_Lissajous                            |     |
-| ---------------------------------------- | --- |
-| ![](./P5_Math/001_Lissajous/preview.png) |     |
+| 001_Lissajous                            | 002_Rose_Curve                            |
+| ---------------------------------------- | ----------------------------------------- |
+| ![](./P5_Math/001_Lissajous/preview.png) | ![](./P5_Math/002_Rose_Curve/preview.png) |
 
 ### [P5 Music Visualization](./P5_Music_Visualization/README.md)
 
