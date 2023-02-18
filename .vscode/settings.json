@@ -1,0 +1,7 @@
+{
+  "glsl-canvas.textures": {
+    "0": "./Shader/texture.png"
+  },
+  "glsl-canvas.useCompactFormatter": false,
+  "liveServer.settings.port": 5501
+}

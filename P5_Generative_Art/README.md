@@ -1,6 +1,6 @@
-# P5 Geometric Pattern
+# P5 Generative Art
 
-Make some geometric shapes visually aesthetically pleasing by rearranging or recombining them using algorithms in p5.js.
+The generative art is the art of using computer programming, which meaningfully introduces randomness as a part of its creative process.
 
 ## Exhibition
 

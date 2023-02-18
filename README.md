@@ -6,15 +6,14 @@
 
 这个仓库包含很多例子，比如以下几个大类。
 
-- 植物、风景编码的思路
-- 文本效果
-- 几何图案
-- 循环动画
-- 音乐可视化
+- 文字
 - 生成艺术
-- 自然系统的模拟
+- 循环动画
 - 机器学习 API
 - 数学
+- 音乐可视化
+- 绘画
+- 自然系统的模拟
 - 其他
 
 本仓库涵盖了非常广泛的话题供您参考。如果你打算开始学习 p5.js，你就来对地方了。
@@ -23,15 +22,15 @@
 
 ## 目录
 
-### [艺术类](./P5_Art/README.md)
+### [绘画类](./P5_Painting/README.md)
 
 像风景画、植物画、抽象画和其他用 p5.js 创作的艺术作品都会放在这个目录里。
 
-| 001_MountainAtNight                           | 002_Lotus                           | 006_BloodForestUnderTheMoon                           |
-| --------------------------------------------- | ----------------------------------- | ----------------------------------------------------- |
-| ![](./P5_Art/001_MountainAtNight/preview.png) | ![](./P5_Art/002_Lotus/preview.png) | ![](./P5_Art/006_BloodForestUnderTheMoon/preview.png) |
+| 001_MountainAtNight                                | 002_Lotus                                | 006_BloodForestUnderTheMoon                                |
+| -------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------- |
+| ![](./P5_Painting/001_MountainAtNight/preview.png) | ![](./P5_Painting/002_Lotus/preview.png) | ![](./P5_Painting/006_BloodForestUnderTheMoon/preview.png) |
 
-### [文本类](./P5_Font/README.md)
+### [文字类](./P5_Font/README.md)
 
 与文本相关的 p5.js 作品将放在这个目录中。
 
@@ -43,13 +42,13 @@
 | -------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
 | ![](./P5_Font/004_TextParticleLoopAnimation/preview.gif) | ![](./P5_Font/005_TextFlowAnimation/preview.gif) | ![](./P5_Font/006_TextMatrixAnimation/preview.gif) |
 
-### [几何图案](./P5_Geometric_Pattern/README.md)
+### [生成艺术](./P5_Generative_Art/README.md)
 
-在 p5.js 中通过使用算法重新排列或重新组合一些几何图形，让它们具有视觉美感。
+生成艺术是使用计算机编程的艺术，它有意义引入随机性作为其创作过程的一部分。
 
-| 001_TriangleNestedPattern                                         | 002_RectangleComposition                                         |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![](./P5_Geometric_Pattern/001_TriangleNestedPattern/preview.png) | ![](./P5_Geometric_Pattern/002_RectangleComposition/preview.png) |
+| 001_TriangleNestedPattern                                      | 002_RectangleComposition                               |
+| -------------------------------------------------------------- | ------------------------------------------------------ |
+| ![](./P5_Generative_Art/001_TriangleNestedPattern/preview.png) | ![](./P5_Generative_Art/P5_Generative_Art/preview.png) |
 
 ### [数学](./P5_Math/README.md)
 
