@@ -1,4 +1,4 @@
-// Blood Forest Under The Moon
+// Blood Forest Under The Moon 2
 // By Chih-Yung Chang
 // My Github https://github.com/ChihYungChang
 // More Works https://openprocessing.org/user/324595?o=2&view=sketches
@@ -91,29 +91,29 @@ class Branch {
       curveVertex(nextNode.x, nextNode.y);
       endShape();
 
-      if (this.level == 1) {
+      if (this.level == 2) {
         let count = int(random(0, this.leafDensity));
-        // for (let c = 0; c < count; c++) {
-        //   this.leafList.push(
-        //     new Leaf({
-        //       length: random(this.leafMinLength, this.leafMaxLength),
-        //       x: node.x,
-        //       y: node.y,
-        //       angle: random(360),
-        //       fillColor: this.leafColor,
-        //       strokeColor: this.leafStrokeColor,
-        //       debugMode: false,
-        //       textureMode: false,
-        //       sWeight: 1,
-        //     })
-        //   );
-        // }
+        for (let c = 0; c < count; c++) {
+          this.leafList.push(
+            new Leaf({
+              length: random(this.leafMinLength, this.leafMaxLength),
+              x: node.x,
+              y: node.y,
+              angle: random(360),
+              fillColor: this.leafColor,
+              strokeColor: this.leafStrokeColor,
+              debugMode: false,
+              textureMode: false,
+              sWeight: 1,
+            })
+          );
+        }
       }
 
       if (this.level < 2) {
         const widthRate = map(this.level, 0, 2, 0.6, 0.3);
-        const heightRate = map(i, 0, this.nodeList.length, 0.6, 0.6);
-        const divisionRate = map(i, 0, this.nodeList.length, 0.6, 0.9);
+        const heightRate = map(i, 0, this.nodeList.length, 0.3, 0.7);
+        const divisionRate = map(i, 0, this.nodeList.length, 0.4, 0.9);
         this.subBranch.push(
           new Branch({
             pos: createVector(node.x, node.y),
