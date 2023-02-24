@@ -8,6 +8,10 @@ Some of the mathematical experiments done with p5.js will be placed in this fold
 
   ![](./001_Lissajous/preview.png)
 
-- 002_Rose_Curve
+- 002_RoseCurve
 
-  ![](./002_Rose_Curve/preview.png)
+  ![](./002_RoseCurve/preview.png)
+
+- 003_RadialTwist
+
+  ![](./003_RadialTwist/preview.png)
