@@ -15,3 +15,7 @@ The generative art is the art of using computer programming, which meaningfully 
 - 003_ColorfulAndPsychedelic
 
   ![](./003_ColorfulAndPsychedelic/preview.png)
+
+- 004_ColorfulAndPsychedelic02
+
+  ![](./004_ColorfulAndPsychedelic02/preview.png)
