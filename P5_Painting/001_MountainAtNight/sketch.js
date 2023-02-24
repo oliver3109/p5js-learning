@@ -1,7 +1,8 @@
 // Mountain At Night
 // By Chih-Yung Chang
-// My Github https://github.com/ChihYungChang
-// More Works https://openprocessing.org/user/324595?o=2&view=sketches
+// Github: https://github.com/ChihYungChang
+// Openprocessing: https://openprocessing.org/user/324595?o=2&view=sketches
+ChihYungChang;
 
 function setup() {
   createCanvas(728, 1024);

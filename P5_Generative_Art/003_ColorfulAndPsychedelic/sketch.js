@@ -1,7 +1,8 @@
 // Colorful And Psychedelic
 // By Chih-Yung Chang
-// My Github https://github.com/ChihYungChang
-// More Works https://openprocessing.org/user/324595?o=2&view=sketches
+// Github: https://github.com/ChihYungChang
+// Twitter: https://twitter.com/chihyungchang66
+// Openprocessing: https://openprocessing.org/user/324595?o=2&view=sketches
 
 const SIZE = 248.333;
 
