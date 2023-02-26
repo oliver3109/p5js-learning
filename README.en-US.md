@@ -10,7 +10,7 @@ This repository contains many examples, such as the following broad categories:
 - Machine learning API
 - Math
 - Music visualization
-- Painting
+- Natural Impressionism
 - Simulation of natural systems
 - Other
 
@@ -20,13 +20,13 @@ A very wide range of topics are covered for your reference. If you are planning 
 
 ## Catalogue
 
-### [P5 Painting](./P5_Painting/README.md)
+### [P5 Natural_Impressionism](./P5_Natural_Impressionism/README.md)
 
-Things like landscapes, botanicals, abstracts and other artwork created with p5.js will go in this catalogue.
+Landscape and tree art works created with p5.js will be placed in this catalogue.
 
-| 001_MountainAtNight                                | 002_Lotus                                | 006_BloodForestUnderTheMoon                                |
-| -------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------- |
-| ![](./P5_Painting/001_MountainAtNight/preview.png) | ![](./P5_Painting/002_Lotus/preview.png) | ![](./P5_Painting/006_BloodForestUnderTheMoon/preview.png) |
+| 001_MountainAtNight                                             | 002_Lotus                                             | 006_BloodForestUnderTheMoon                                             |
+| --------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- |
+| ![](./P5_Natural_Impressionism/001_MountainAtNight/preview.png) | ![](./P5_Natural_Impressionism/002_Lotus/preview.png) | ![](./P5_Natural_Impressionism/006_BloodForestUnderTheMoon/preview.png) |
 
 ### [P5 Font](./P5_Font/README.md)
 

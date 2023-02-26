@@ -1,6 +1,6 @@
-# P5 Painting
+# P5 Natural_Impressionism
 
-Things like landscapes, botanicals, abstracts and other artwork created with p5.js will go in this folder.
+Landscape and tree art works created with p5.js will be placed in this folder.
 
 ## Exhibition
 

@@ -12,7 +12,7 @@
 - 机器学习 API
 - 数学
 - 音乐可视化
-- 绘画
+- 自然印象派
 - 自然系统的模拟
 - 其他
 
@@ -22,13 +22,13 @@
 
 ## 目录
 
-### [绘画类](./P5_Painting/README.md)
+### [自然印象派](./P5_Natural_Impressionism/README.md)
 
-像风景画、植物画、抽象画和其他用 p5.js 创作的艺术作品都会放在这个目录里。
+用 p5.js 创作的山水树木相关的艺术作品都会放在这个目录里。
 
-| 001_MountainAtNight                                | 002_Lotus                                | 006_BloodForestUnderTheMoon                                |
-| -------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------- |
-| ![](./P5_Painting/001_MountainAtNight/preview.png) | ![](./P5_Painting/002_Lotus/preview.png) | ![](./P5_Painting/006_BloodForestUnderTheMoon/preview.png) |
+| 001_MountainAtNight                                             | 002_Lotus                                             | 006_BloodForestUnderTheMoon                                             |
+| --------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- |
+| ![](./P5_Natural_Impressionism/001_MountainAtNight/preview.png) | ![](./P5_Natural_Impressionism/002_Lotus/preview.png) | ![](./P5_Natural_Impressionism/006_BloodForestUnderTheMoon/preview.png) |
 
 ### [文字类](./P5_Font/README.md)
 
