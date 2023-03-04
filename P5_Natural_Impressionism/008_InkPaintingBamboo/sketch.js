@@ -39,11 +39,12 @@ function setup() {
   // originalGraphics.drawingContext.shadowOffsetY=-10
   // originalGraphics.drawingContext.shadowOffsetX=-10
 
-  for (let i = 0; i < 1; i++) {
+  for (let i = 0; i < 3; i++) {
     particles.push(
       new BambooBackbone({
         p: createVector(random(width), height),
         a: random(-45, 45),
+        weight: int(random(20, 50)),
       })
     );
   }
@@ -63,7 +64,7 @@ function draw() {
   webGLCanvas.rect(-width / 2, -height / 2, width, height);
 
   particles.forEach((p) => {
-    p.update();
+    p.update(originalGraphics);
     p.draw(originalGraphics);
   });
   particles = particles.filter((p) => p.alive);

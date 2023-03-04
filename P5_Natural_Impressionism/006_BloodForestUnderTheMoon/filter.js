@@ -2,7 +2,6 @@
 // By Chih-Yung Chang
 // Github: https://github.com/ChihYungChang
 // Openprocessing: https://openprocessing.org/user/324595?o=2&view=sketches
-ChihYungChang;
 
 function makeFilter(ver) {
   colorMode(HSB, 360, 100, 100, 100);
