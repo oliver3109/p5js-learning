@@ -5,12 +5,16 @@
 
 //p5.js shader basic structure ref from https://www.openprocessing.org/sketch/920144
 
+var seed = 3244 * Math.random();
+
 let theShader;
 let webGLCanvas;
 let originalGraphics;
 let particles = [];
 let overallTexture;
 let bgColor;
+
+let overAllTexture;
 
 function preload() {}
 function preload() {
@@ -48,6 +52,8 @@ function setup() {
       })
     );
   }
+
+  makeFilter(2);
 }
 
 function draw() {
@@ -79,9 +85,10 @@ function draw() {
   image(webGLCanvas, 0, 0);
 
   if (particles.length == 0) {
-    noFill();
-    stroke("#202020");
-    strokeWeight(10);
-    rect(0, 0, width, height);
+    // noFill();
+    // stroke("#202020");
+    // strokeWeight(10);
+    // rect(0, 0, width, height);
+    image(overAllTexture, 0, 0);
   }
 }

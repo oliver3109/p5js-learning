@@ -8,7 +8,7 @@ class BambooBackbone {
       alive: true,
 
       weight: 50,
-
+      fill: random(0, 50),
       intermittentFrames: 8, // 间断帧数
     };
 
@@ -114,7 +114,7 @@ class BambooBackbone {
     }
 
     for (let i = -brushWeight / 2; i < brushWeight / 2; i += 1) {
-      let fill = 255 - yColorOffset;
+      let fill = 255 - this.fill - yColorOffset;
       let xOffset = 0;
       const centerNumber = 0;
       if (i < centerNumber) {
@@ -211,10 +211,10 @@ class BambooLeaf {
     let def = {
       p: createVector(random(width), random(height)),
 
-      length: 200,
+      length: random(150, 230),
       startX: 0,
       startY: 0,
-      a: random(0, 180),
+      a: random(0, 180) + random(-30, 30),
     };
 
     Object.assign(def, args);
